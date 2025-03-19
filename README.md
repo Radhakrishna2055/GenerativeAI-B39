@@ -6,3 +6,4 @@ https://github.com/Radhakrishna2055/GenerativeAI-B39/blob/main/GenAI_Assignment_
 https://github.com/Radhakrishna2055/GenerativeAI-B39/blob/main/GenAI_Assignment_5.ipynb
 https://github.com/Radhakrishna2055/GenerativeAI-B39/blob/main/GenAI_Assignment_6.ipynb
 https://github.com/Radhakrishna2055/GenerativeAI-B39/blob/main/GenAI_Assignment_7.ipynb
+https://github.com/Radhakrishna2055/GenerativeAI-B39/blob/main/GenAI_Assignment_8.ipynb
